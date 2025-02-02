@@ -14,13 +14,4 @@
     "skills": ["React", "Redux","Tailwind","Api"],
     "demo": "https://movie-app-react-alpha-rosy.vercel.app/",
     "source": "https://github.com/Narendra1128/MovieAppReact"
-  }
-  // {
-  //   "title": "Shopping Cart",
-  //   "imageSrc": "projects/crud.png",
-  //   "description": "This is a project made to learn the MERN CRUD by building a basic web app",
-  //   "skills": ["React", "Redux","Tailwind", "Api"],
-  //   "demo": "https://basic-crud-operations-using-api.vercel.app/",
-  //   "source": "https://www.github.com"
-  // }
-]
+  }]
